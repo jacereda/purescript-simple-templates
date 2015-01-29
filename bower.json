@@ -1,14 +1,16 @@
 {
   "name": "purescript-simple-templates",
-  "version": "1.0.0",
-  "moduleType": [
-    "node"
-  ],
+  "description": "Simple templates for PureScript",
+  "version": "0.1.0",
+  "license": "BSD-2-Clause",
+  "keywords": ["purescript"],
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "output"
+    "output",
+    "tests",
+    "bower.json"
   ],
   "dependencies": {
     "purescript-strings": "*",
